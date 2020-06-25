@@ -1,5 +1,4 @@
-// Hi There!!!!
-// Kashish Shah
+//hello kashish shah
 // EE 5314 PROJECT- LCR METER
 // KASHISH HARESH SHAH
 // UTA ID : 1001669323
